@@ -23,4 +23,9 @@ module.exports = {
     overlay: false,
     disableHostCheck: true,
   },
+  pwa: {
+    workboxOptions: {
+      exclude: [/_redirects/],
+    },
+  },
 };
