@@ -40,7 +40,7 @@ export default {
         },
         {
           property: "og:description",
-          content: "",
+          content: "hana hana hana",
           vmid: "og:description",
         },
         {
